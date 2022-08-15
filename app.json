@@ -1,0 +1,8 @@
+{
+  "name": "zemanito",
+  "buildpacks": [
+    {
+      "url": "heroku/java"
+    }
+  ]
+}

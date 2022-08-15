@@ -1,0 +1,7 @@
+GET http://localhost:8080/api/v1/todo/52c97cfb-799e-456d-bfbf-24b2daa7cc44
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJ0b21hcy5zdm9qYW5vdnNreTExQGdtYWlsLmNvbSIsImV4cCI6MTY1OTQ2ODczOSwiaWF0IjoxNjU5NDY1MTM5fQ.L1M_Z0Pu8LGyhOSPtC744irzutdJWTjC9Kxs1RMTMhz-ZcGGvtm41Kdq-WBmKaDe7HsySiHwjMTvnRK96Z02nQ
+
+{
+  "label": "Walk a dog"
+}

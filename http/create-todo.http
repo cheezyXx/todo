@@ -1,0 +1,7 @@
+POST http://localhost:8080/api/v1/user/55816a12-0c47-4dc3-a5fb-f5f2c437e8e5/todo
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJ0b21hcy5zdm9qYW5vdnNreTExQGdtYWlsLmNvbSIsImV4cCI6MTY1OTI5MjgyMywiaWF0IjoxNjU5Mjg5MjIzfQ.SiP68GZAH8oa7hGq2bnxQ8gKzGnHmlMgKP9SS7WYobe1j-gIvNTNdS6d2ZLyKKqxClPcS9php6-QBt6puda6Tw
+
+{
+  "label": "Walk a dog"
+}
